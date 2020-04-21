@@ -1,0 +1,22 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(border.png) 30 stretch;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+body {
+  background-color: black;
+}
+
+.button{
+  
+
+}
